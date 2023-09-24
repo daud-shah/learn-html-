@@ -1,0 +1,19 @@
+h1, h2{
+   color: rgb(245, 248, 248); 
+   font-size: 3rem;
+}
+.dim{
+ color: rgb(79, 104, 79);
+}
+body{
+   background-color:rgb(108, 104, 104);
+   color: aliceblue
+    
+}
+.profilePhoto{
+    width: 150px;
+    height: 150px;
+    border: 2px double white;
+    border-radius: 50%;
+}
+  
